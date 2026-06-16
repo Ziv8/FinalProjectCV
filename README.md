@@ -2,6 +2,8 @@
 
 קורס **אלגוריתמים מתקדמים למדמ״ח**, תשפ״ו — סמסטר אביב.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ziv8/FinalProjectCV/blob/main/suppliers_consumers.ipynb)
+
 הפרויקט פותר את בעיית הספקים/צרכנים כתכנית לינארית (LP) ומחזיר את הכמות
 הכוללת המקסימלית שמתקבלת אצל הצרכנים, יחד עם פתרון אופטימלי `F`.
 
